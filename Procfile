@@ -1,1 +1,1 @@
-web: bin/hubot -a campfire -n hhpet
+web: bin/hubot -a slack -n hhpet
